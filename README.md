@@ -3,4 +3,4 @@
 This holds the locked (encrypted) Premium update that **Update.bat** inside the Premium
 download installs. It can't be used on its own.
 
-Get Premium on Whop / the Chris Macros Discord server.
+Get Premium at https://chrismacros.pages.dev (help in the Chris Macros Discord server).
